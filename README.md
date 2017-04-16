@@ -1,4 +1,4 @@
-### Note to reviewer: if the full marks are not given, please give me some pointers on what the expected outcome should be and where I went wrong (for each review criteria that I was not given full marks) - this is so I can amend and resubmit. If full marks are not given and no review points are given, it'd be difficult to find out what went wrong where for me to correct. Thanks!
+### Note to reviewer: if the full marks are not given for any review criteria, I would greatly appreciate if you could give me some pointers on what the expected outcome should be and where I went wrong (for each review criteria that I was not given full marks) - this is so I can correct and resubmit. If full marks are not given and no review points are given, it'd be difficult to find out what went wrong where for me to correct. Thanks!
 
 ## Steps in script
 1. Load dplyr package
